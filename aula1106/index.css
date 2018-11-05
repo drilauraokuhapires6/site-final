@@ -1,0 +1,20 @@
+div.jumbotron p{
+	font-weight: bold;
+	line-height: 23px;
+}
+
+div.col-4 {
+	margin-left: 20px;
+	
+}
+
+p.card-text {
+	font-weight: bold;
+
+}
+
+a.btn-primary {
+	font-weight: bold;
+	color: black;
+	
+}
