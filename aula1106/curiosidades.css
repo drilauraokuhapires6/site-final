@@ -1,0 +1,13 @@
+div.titulo h1 {
+	color: white;
+	margin-top: 40px;
+	margin-left: 370px;
+	font-size: 50px;
+	font-style: oblique;
+}
+
+.subtitulo{
+	font-size: 30px;
+	color: white;
+	font-style: oblique;
+}
