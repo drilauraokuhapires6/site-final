@@ -10,4 +10,30 @@ div.titulo h1 {
 	font-size: 30px;
 	color: white;
 	font-style: oblique;
+	margin-left: -130px;
 }
+
+div.foto img {
+	max-width: 1000px;
+	max-height: 250px;
+	width: 296px;
+	height:auto ;
+	margin-left: 20px;
+}
+
+#frase 
+{
+	background-color: #f1f1f1;
+	text-align: center;
+	transition: all .2s ease-out;
+	margin-left: 20px;
+}
+
+#frase:hover 
+{
+	background-color: #a10d0d;
+	color:#f1f1f1;
+	transition: all .2s ease-out;
+	box-shadow: 1px 1px 8px white;
+}
+
