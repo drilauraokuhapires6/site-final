@@ -6,12 +6,6 @@ div.titulo h1 {
 	font-style: oblique;
 }
 
-.subtitulo{
-	font-size: 30px;
-	color: white;
-	font-style: oblique;
-	margin-left: -130px;
-}
 
 div.foto img {
 	max-width: 1000px;
@@ -36,4 +30,32 @@ div.foto img {
 	transition: all .2s ease-out;
 	box-shadow: 1px 1px 8px white;
 }
+
+div.fotinho img {
+	max-width: 890px;
+	max-height: 400px;
+	width: 490px;
+	height:auto ;
+	margin-left: 496px;
+	margin-top: -600px;
+}
+
+#frase2
+{
+	background-color: #f1f1f1;
+	text-align: center;
+	transition: all .2s ease-out;
+	margin-left: 497px;
+	margin-top: -184px;
+}
+
+#frase2:hover 
+{
+	background-color: #a10d0d;
+	color:#f1f1f1;
+	transition: all .2s ease-out;
+	box-shadow: 1px 1px 8px white;
+}
+
+
 
