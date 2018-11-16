@@ -1,7 +1,7 @@
 div.titulo h1 {
 	color: white;
 	margin-top: 40px;
-	margin-left: 370px;
+	margin-left: 400px;
 	font-size: 50px;
 	font-style: oblique;
 }
@@ -32,12 +32,12 @@ div.foto img {
 }
 
 div.fotinho img {
-	max-width: 890px;
-	max-height: 400px;
-	width: 490px;
+	max-width: 899px;
+	max-height: 458px;
+	width: 401px;
 	height:auto ;
-	margin-left: 496px;
-	margin-top: -600px;
+	margin-left: 480px;
+	margin-top: -620px;
 }
 
 #frase2
@@ -45,11 +45,62 @@ div.fotinho img {
 	background-color: #f1f1f1;
 	text-align: center;
 	transition: all .2s ease-out;
-	margin-left: 497px;
-	margin-top: -184px;
+	margin-left: 480px;
+	margin-top: -180px;
 }
 
 #frase2:hover 
+{
+	background-color: #a10d0d;
+	color:#f1f1f1;
+	transition: all .2s ease-out;
+	box-shadow: 1px 1px 8px white;
+}
+
+
+div.photo img {
+	max-width: 1000px;
+	max-height: 250px;
+	width: 300px;
+	height:auto ;
+	margin-left: 940px;
+	margin-top: -620px;
+}
+
+#frase3
+{
+	background-color: #f1f1f1;
+	text-align: center;
+	transition: all .2s ease-out;
+	margin-left: 940px;
+	margin-top: -209px;
+}
+
+#frase3:hover
+{
+	background-color: #a10d0d;
+	color:#f1f1f1;
+	transition: all .2s ease-out;
+	box-shadow: 1px 1px 8px white;
+}
+
+div.fotoh img {
+	max-width: 1000px;
+	max-height: 300px;
+	width: 300px;
+	height:auto ;
+	margin-left: 20px;
+}
+
+#frase4
+{
+	background-color: #f1f1f1;
+	text-align: center;
+	transition: all .2s ease-out;
+	margin-left: 20px;
+}
+
+#frase4:hover
 {
 	background-color: #a10d0d;
 	color:#f1f1f1;
