@@ -1,0 +1,28 @@
+div.titulo h1 {
+ font-style: oblique;
+ text-align: center;
+ font-size: 50px;
+ font-weight: bold;
+
+}
+
+div.foto img {
+	width: 500px;
+	
+}
+
+div.escrito p {
+ font-weight: bold;
+ font-size: 20px;
+ text-align: center;
+}
+
+div.imagem img {
+	width: 300px;
+}
+
+div.frase p {
+	margin-left: 450px;
+	font-weight: bold;
+
+}

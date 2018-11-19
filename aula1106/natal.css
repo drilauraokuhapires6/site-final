@@ -1,0 +1,8 @@
+div.titulo h1 {
+	font-style: italic;
+	font-weight: 900
+}
+
+#texto {
+	font-weight: bold;
+}

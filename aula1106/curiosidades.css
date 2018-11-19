@@ -36,8 +36,8 @@ div.fotinho img {
 	max-height: 458px;
 	width: 401px;
 	height:auto ;
-	margin-left: 480px;
-	margin-top: -620px;
+	margin-left: 700px;
+	margin-top: -470px;
 }
 
 #frase2
@@ -45,8 +45,8 @@ div.fotinho img {
 	background-color: #f1f1f1;
 	text-align: center;
 	transition: all .2s ease-out;
-	margin-left: 480px;
-	margin-top: -180px;
+	margin-left: 700px;
+	margin-top: -110px;
 }
 
 #frase2:hover 
@@ -63,8 +63,8 @@ div.photo img {
 	max-height: 250px;
 	width: 300px;
 	height:auto ;
-	margin-left: 940px;
-	margin-top: -620px;
+	margin-left: 1350px;
+	margin-top: -420px;
 }
 
 #frase3
@@ -72,8 +72,8 @@ div.photo img {
 	background-color: #f1f1f1;
 	text-align: center;
 	transition: all .2s ease-out;
-	margin-left: 940px;
-	margin-top: -209px;
+	margin-left: 1350px;
+	margin-top: -111px;
 }
 
 #frase3:hover
