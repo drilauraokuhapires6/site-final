@@ -1,8 +1,37 @@
 div.titulo h1 {
 	font-style: italic;
 	font-weight: 900
+
 }
 
-#texto {
+div.texto p {
 	font-weight: bold;
+}
+div.foto img {
+	width: 600px;
+}
+div.texto2 p {
+	font-weight: bold;
+}
+div.roupa h5 {
+	text-align: center;
+	font-weight: bold;
+	color: #A52A2A;
+}
+div.texto3 p {
+	font-weight: bold;
+}
+div.arvore h5 {
+	font-weight: bold;
+	color: #A52A2A;
+	text-align: center;
+}
+
+div.texto4 p {
+	font-weight: bold;
+
+}
+div.imagem img {
+	width: 400px;
+	margin-bottom: 40px;
 }
