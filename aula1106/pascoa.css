@@ -12,3 +12,18 @@ div.oi p {
 	color: #B22222;
 	font-weight: bold;
 }
+#cartao {
+	font-weight: bold;
+}
+p.card-text {
+	font-weight: bold;
+}
+h5.card-title {
+	color: #B22222;
+}
+#card {
+	margin-bottom: 50px;
+}
+div.texto9 p {
+	font-weight: bold;
+}
