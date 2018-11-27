@@ -5,6 +5,7 @@ div.titulo h1 {
 div.subtitulo h2 {
 	font-weight: bold;
 	font-style: italic;
+	color: #B22222
 
 }
 div.texto p{
@@ -17,4 +18,24 @@ div.imagem img {
 div.texto2 p{
 	font-weight: bold;
 	color: white;
+}
+div.fotinho img{
+	width: 500px;
+	border-radius: 40px;
+}
+div.texto10 p {
+	font-weight: bold;
+	color: white;
+}
+div.foto2 img {
+	width: 200px;
+}
+div.subtitulo2 h3 {
+	color:  #B22222;
+}
+.card-title{
+	font-style: oblique;
+}
+.card{
+	border-radius: 20px;
 }
