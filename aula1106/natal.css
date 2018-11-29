@@ -6,12 +6,15 @@ div.titulo h1 {
 
 div.texto p {
 	font-weight: bold;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 div.foto img {
 	width: 600px;
 }
 div.texto2 p {
 	font-weight: bold;
+	
 }
 div.roupa h5 {
 	text-align: center;

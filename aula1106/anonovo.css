@@ -1,0 +1,26 @@
+div.titulo img{
+	width: 300px;
+	max-height: 100px;
+	margin-top: 20px;
+}
+div.conteudo p {
+	color: black;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+div.subtitulo1 h3{
+	font-weight: bold;
+	color: #8B8386;
+}
+div.conteudo2 p {
+	font-weight: bold;
+	color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+div.imagem img{
+	width: 500px;
+	margin-bottom: 30px;
+}
