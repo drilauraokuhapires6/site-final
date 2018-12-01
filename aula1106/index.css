@@ -20,7 +20,7 @@ p.card-text {
 a.btn-primary {
 	font-weight: bold;
 	color: black;
-	border-radius: 40px;
+	border-radius: 70px;
 	
 }
 
@@ -40,8 +40,49 @@ a.oi {
 .imagenzin{
 	width: 100%
 }
+.jumbotron{
+	color: white;
+	font-weight: bold;
+}
+div.escrito p{
+	font-style: italic;
 
+}
 
-
-
-
+.cartao{
+	margin-left: 80px;
+	margin-top: 5px;
+}
+.card-text2 {
+	margin-top: 30px;
+	font-weight: bold;
+}
+.card-img-right{
+	width: 600px;
+	max-height: 200px;
+	max-width: 500px;
+	margin-top: 20px;
+	border-radius: 20px;
+	margin-right: 10px;
+}
+.text{
+	color: #A52A2A;
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;
+}
+.container{
+	margin-bottom: 50px;
+}
+.fotinho {
+	width: -80px;
+	max-height: 40px;
+	max-width: 40px;
+}
+.card2{
+	margin-top: 30px;
+	margin-left: 80px;
+}
+.card-img {
+	border-radius: 30px;
+}
